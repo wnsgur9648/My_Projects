@@ -1,0 +1,5 @@
+RESTful_api/.idea
+RESTful_api/db.sqlite3
+RESTful_api/backend/__pycache__
+RESTful_api/api/__pycache__
+RESTful_api/api/migrations/__pycache__
